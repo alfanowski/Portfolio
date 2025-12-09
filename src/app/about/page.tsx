@@ -157,7 +157,7 @@ export default function About() {
           className="flex gap-4 mb-8"
         >
           <a
-            href="https://github.com/alfanoandrea"
+            href="https://github.com/alfanowski"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 rounded-lg font-semibold shadow border"

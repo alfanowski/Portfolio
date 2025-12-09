@@ -191,7 +191,7 @@ export default function Home() {
         className="flex gap-6 flex-wrap justify-center"
       >
         <a
-          href="https://github.com/alfanoandrea"
+          href="https://github.com/alfanowski"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 border border-cyan-400 text-cyan-400 px-6 py-2 rounded-lg hover:bg-cyan-400 hover:text-black transition-colors font-semibold shadow"

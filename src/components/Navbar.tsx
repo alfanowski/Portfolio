@@ -82,7 +82,7 @@ export default function Navbar() {
               <span className="absolute bottom-0 left-0 w-full h-[2px] bg-cyan-400 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-out"></span>
             </Link>
             <a
-              href="https://github.com/alfanoandrea"
+              href="https://github.com/alfanowski"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 border border-cyan-400 text-cyan-400 px-4 py-2 rounded-lg hover:bg-cyan-400 hover:text-black transition-colors"
