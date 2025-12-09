@@ -11,7 +11,7 @@ type Repo = {
 
 async function fetchRepos(): Promise<Repo[]> {
   const res = await fetch(
-    "https://api.github.com/users/alfanoandrea/repos?sort=updated&per_page=9",
+    "https://api.github.com/users/alfanowski/repos?sort=updated&per_page=9",
     {
       headers: { Authorization: `token ${process.env.GITHUB_TOKEN}` },
       next: { revalidate: 60 },
